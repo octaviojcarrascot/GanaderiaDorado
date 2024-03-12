@@ -1,0 +1,3 @@
+[14-Aug-2022 15:41:31 UTC] PHP Warning:  include_once(../modelos/Ganados.modelo.php): failed to open stream: No such file or directory in /home/octasist/public_html/ajax/ganados.ajax.php on line 4
+[14-Aug-2022 15:41:31 UTC] PHP Warning:  include_once(): Failed opening '../modelos/Ganados.modelo.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/octasist/public_html/ajax/ganados.ajax.php on line 4
+[14-Aug-2022 15:41:31 UTC] PHP Fatal error:  Class 'ModeloGanados' not found in /home/octasist/public_html/controladores/ganados.controlador.php on line 7
